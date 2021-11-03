@@ -1,0 +1,27 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.form {
+  width: 80%;
+  margin-bottom: 24px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 4px;
+  margin-bottom: 8px;
+}
+
+ul {
+  margin: 0;
+  width: 100%;
+  list-style: none;
+}
+
+li {
+  padding: 0;
+}
